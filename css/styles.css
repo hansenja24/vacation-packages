@@ -1,0 +1,18 @@
+.container{
+  background-color: #ffe77c;
+}
+
+.jumbotron{
+  background-color: #7ec1fc;
+}
+
+.featured {
+  font-weight: bold;
+  font-size: 20px;
+  color:#f27c41;
+}
+
+.panel-primary .panel-heading{
+  background-color: #7ec1fc;
+  color: black;
+}
